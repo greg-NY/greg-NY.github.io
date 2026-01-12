@@ -4,3 +4,11 @@
 body {
   font-family: sans-serif;
 }
+
+h1 {
+  color: #1a73e8; /* blue for h1 */
+}
+
+h2 {
+  color: #e36209; /* orange for h2 */
+}
